@@ -1,0 +1,10 @@
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+I have used it earlier :p
+
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+I will try GIT ;)
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+because in google docs, other files don't change, unlike the case while coding.
